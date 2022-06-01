@@ -1,7 +1,7 @@
 //baseURL
 const baseURL = window.location.hostname.includes('127.0.0.1')
 ? 'http://127.0.0.1:5500'
-: 'https://projeto-final-9ae7e.firebaseapp.com'
+: 'https://ceduardo-sys.github.io/projeto-final'
 
 
 /**
